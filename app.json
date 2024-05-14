@@ -1,9 +1,9 @@
 {
-  "name":"FLASH-MD",
-  "description":"An easy and simple WhatsApp bot developed by France King",
+  "name":"JACKIM-MD",
+  "description":"A simple WhatsApp Bot developed by Mc Jackim",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/d46782633470af2059c33.jpg",
-  "repository":"https://github.com/EasternG/Flash-Md",
+  "repository":"https://github.com/Jackimcode10/Jackim-MD",
   "succes_url":"/",
   "stack":"container",
      "env":{
@@ -60,17 +60,17 @@
     }
         ,
     "HEROKU_API_KEY": {
-    "description": "insert your heroku api-key (this is optionnal)",
+    "description": "insert your heroku api-key (this is optional)",
      "required" :false
     },
    "HEROKU_APP_NAME": {
-    "description": "insert your heroku APP NAME (this is optionnal)",
+    "description": "insert your heroku APP NAME (this is optional)",
      "required" :false
     }  
           ,
     "SESSION_ID":
     {
-      "description":"put your session ID, AMKE SURE IT STARTS WITH FLASH-MD-WA-BOT;;;=>",   
+      "description":"put your session ID here",   
       "value":"",
       "required": true
 
@@ -91,7 +91,7 @@
   },
     "WARN_COUNT":
   {
-    "desc": "this is the limit of warn for warning commandes",
+    "desc": "this is the limit of warn for warning commands",
     "required": false,
     "value": "3"
   },
@@ -103,7 +103,7 @@
     }, 
   "STARTING_BOT_MESSAGE":
   {
-    "description": "if you don't want startting-bot-message put no else put yes",
+    "description": "if you don't want starting-bot-message put no else put yes",
     "required": true,
     "value": "yes"
   },
@@ -126,7 +126,7 @@
     {
       "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
     }
-  ],
+  ]
 
   "formation": {
                 "worker": {
