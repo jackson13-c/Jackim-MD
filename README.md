@@ -8,7 +8,7 @@
     <img alt="JACKIM-MD" width="500" height="300" src="https://telegra.ph/file/d46782633470af2059c33.jpg">
 <p align="center">
 <p align="center">
-<a href="https://github.com/Jackimcode10/Jackim-MD"><img title="Author" src="https://img.shields.io/badge/JACKIM_MD-black?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Jackimcode10/Jackim-MD"><img title="Author" src="https://img.shields.io/badge/JACKIM_MD-red?style=for-the-badge&logo=github"></a>
 <p/>
 </div>
 ***
