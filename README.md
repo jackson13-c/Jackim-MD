@@ -31,7 +31,7 @@
 
 **2. If You Have a Heroku Account**
     <br>
-<p align="left"><a href="https://flash-deploy.vercel.app"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-blue?style=for-the-badge&logo=heroku" width="150" height="28.45"/></a></p>
+<p align="left"><a href="https://jackim-depoy.vercel.app"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-blue?style=for-the-badge&logo=heroku" width="150" height="28.45"/></a></p>
 
 
 ***
