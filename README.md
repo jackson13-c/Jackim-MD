@@ -24,12 +24,12 @@
 ***
 
 #### DEPLOY TO HEROKU 
-**1. If You Don't Have An Account On Heroku**
+**1. Don't Have An Account On Heroku?**
     <br>
 <p align="left"><a href="https://signup.heroku.com">
  <img src="https://img.shields.io/badge/Create%20Account%20Now-blue?style=for-the-badge&logo=heroku" width="150" height="28.45"/></a></p>
 
-**2. If You Have a Heroku Account**
+**2. Already have a Heroku Account?**
     <br>
 <p align="left"><a href="https://jackim-depoy.vercel.app"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-blue?style=for-the-badge&logo=heroku" width="150" height="28.45"/></a></p>
 
