@@ -17,7 +17,7 @@
 
 ***1.`First STAR ⭐ This Repo ` And Then [`FORK`](https://github.com/Jackimcode10/Jackim-MD/fork) It***
 
-***2.`Get Session ID` by [`SCANING QR`](https://flash-md-qr.onrender.com) Or [`PAIRING CODE`](https://flash-md-z6lm.onrender.com/pair)***
+***2.`Get Session ID` by [`SCANING QR`](https://jackim-md-session-19c83e9ad9ec.herokuapp.com/qr) Or [`PAIRING CODE`](https://jackim-md-session-19c83e9ad9ec.herokuapp.com/pair)***
 
 *-Copy The Session ID to paste it in Heroku during DEPLOYMENT.*
 
