@@ -11,7 +11,7 @@
 <a href="https://github.com/Jackimcode10/Jackim-MD"><img title="Author" src="https://img.shields.io/badge/JACKIM_MD-red?style=for-the-badge&logo=github"></a>
 <p/>
 </div>
-***
+
 
 #### SETUP 
 
@@ -43,7 +43,7 @@
 ***
 
 ### LICENSING 
--The FLASH-MD is released under the [MIT License](https://opensource.org/licenses/MIT).
+-JACKIM-MD is released under the [MIT License](https://opensource.org/licenses/MIT).
 
 -Enjoy the diverse features of the Jackim-MD  to enhance your conversations and make your WhatsApp experience more interesting!
 
