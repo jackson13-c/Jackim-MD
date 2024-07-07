@@ -31,7 +31,7 @@
 
 **2. Already have a Heroku Account?**
     <br>
-<p align="left"><a href="https://jackim-depoy.vercel.app"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-blue?style=for-the-badge&logo=heroku" width="150" height="28.45"/></a></p>
+<p align="left"><a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fkingibrahimtech.github.io%2F&template=https://github.com/jackson13-c/Jackim-MD"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-blue?style=for-the-badge&logo=heroku" width="150" height="28.45"/></a></p>
 
 
 ***
