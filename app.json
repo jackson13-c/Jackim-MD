@@ -3,7 +3,7 @@
   "description":"A WhatsApp Bot Developed by Jackim Devs",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/d46782633470af2059c33.jpg",
-  "repository":"https://github.com/Jackimcode10/Jackim-MD",
+  "repository":"https://github.com/jackson13-c/Jackim-MD",
   "succes_url":"/",
   "stack":"container",
   "env":{
